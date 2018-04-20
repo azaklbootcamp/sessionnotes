@@ -8,4 +8,4 @@ _Principal Consultant,Fusion5_
 
 [Website](http://wellytonian.com) | [@neop26](https://twitter.com/neop26)
 
-![Welcome to Cloud Shell](https://github.com/azaklbootcamp/sessionnotes/blob/master/NetworkArchitecture.jpg "Welcome to Cloud Shell")
+![Welcome to Cloud Shell](./NetworkArchitecture.jpg "Welcome to Cloud Shell")
