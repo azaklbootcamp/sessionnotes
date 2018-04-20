@@ -20,8 +20,9 @@ https://github.com/azaklbootcamp
 
 **Web App URLS**
 
-(`bootcampwebappsydney.azurewebsites.net`)
-(`bootcampwebappmelb.azurewebsites.net`)
+`bootcampwebappsydney.azurewebsites.net`
+
+`bootcampwebappmelb.azurewebsites.net`
 
 **Lab Walkthrough**
 1. Create a free Github account 
