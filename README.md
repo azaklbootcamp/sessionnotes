@@ -8,4 +8,41 @@ _Principal Consultant,Fusion5_
 
 [Website](http://wellytonian.com) | [@neop26](https://twitter.com/neop26)
 
-![Welcome to Cloud Shell](/NetworkArchitecture.jpg "Welcome to Cloud Shell")
+**What do you need?**
+1. An Azure Subscription
+2. A install of either Visual Studio Community or Visual Studio (Why not provision a VM on Azure that has Visual Studio?)
+3. Or you can use Visual Studio Code as well
+4. Have fun building it out!
+
+**What are we trying to build?**
+Network Diagram
+
+**GITHUB Repo**
+https://github.com/azaklbootcamp
+
+**Web App URLS**
+
+
+**Lab Walkthrough**
+1. Create a free Github account 
+2. Clone the following two repositories 
+	https://github.com/azaklbootcamp/Bootcampwebapp
+	https://github.com/azaklbootcamp/SingleAppGW
+3. Connect Visual Studio to your Github Account
+4. Clone your respository - Bootcampwebapp (From Visual Studio)
+5. Make a branch and then make some code edits
+6. Publish the Web Application from VS
+7. Setup Continous Deployment - Integrating Github to your Azure Tenant.
+8. Make some changes and update the code and check in the changes.
+9. Merge the branch so that you can see deployment onto Azure starts immediately.
+10. View the changes.
+11. Close the solution.
+
+**Building a Single Application Gateway ( From Visual Studio Code)**
+1. Clone your repository - SingleAppGW
+2. Make a branch and then make some code edits
+3. Deploy the App Gateway Code to deploy a single Application Gateway pointed at both the Web Apps
+
+**Building our Highly Redundant Platform ( From Visual Studio Code)**
+1. Clone your repository - RedundantPlatform
+
