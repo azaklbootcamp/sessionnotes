@@ -31,7 +31,7 @@ https://github.com/azaklbootcamp
 	`https://github.com/azaklbootcamp/Bootcampwebapp`
 
 	`https://github.com/azaklbootcamp/SingleAppGW`
-    
+
 3. Connect Visual Studio to your Github Account
 4. Clone your respository - Bootcampwebapp (From Visual Studio)
 5. Make a branch and then make some code edits
@@ -49,4 +49,6 @@ https://github.com/azaklbootcamp
 
 **Building our Highly Redundant Platform ( From Visual Studio Code)**
 1. Clone your repository - RedundantPlatform
+2. Make a branch and then make some code edits
+3. Deploy the Multi App Gateway and Traffic Manager architecture pointed at both the Web Apps
 
