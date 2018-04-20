@@ -48,11 +48,11 @@ https://github.com/azaklbootcamp
 
 **Building a Single Application Gateway ( From Visual Studio Code)**
 1. Clone your repository - SingleAppGW
-2. Make a branch and then make some code edits
+2. Make a branch and then make some code edits ( Change the Public IP Name)
 3. Deploy the App Gateway Code to deploy a single Application Gateway pointed at both the Web Apps
 
 **Building our Highly Redundant Platform ( From Visual Studio Code)**
 1. Clone your repository - RedundantPlatform
-2. Make a branch and then make some code edits
+2. Make a branch and then make some code edits (Change Public IP and Traffic Manager Name)
 3. Deploy the Multi App Gateway and Traffic Manager architecture pointed at both the Web Apps
 
