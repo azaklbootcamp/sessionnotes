@@ -14,14 +14,14 @@ _Principal Consultant,Fusion5_
 3. Or you can use Visual Studio Code as well
 4. Have fun building it out!
 
-**What are we trying to build?**
-Network Diagram
-
 **GITHUB Repo**
+
 https://github.com/azaklbootcamp
 
 **Web App URLS**
 
+(`bootcampwebappsydney.azurewebsites.net`)
+(`bootcampwebappmelb.azurewebsites.net`)
 
 **Lab Walkthrough**
 1. Create a free Github account 
