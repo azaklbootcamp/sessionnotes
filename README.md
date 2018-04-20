@@ -25,7 +25,7 @@ https://github.com/azaklbootcamp
 
 **Lab Walkthrough**
 1. Create a free Github account 
-2. Clone the following two repositories 
+2. Clone the following two repositories to your Github Account
 	https://github.com/azaklbootcamp/Bootcampwebapp
 	https://github.com/azaklbootcamp/SingleAppGW
 3. Connect Visual Studio to your Github Account
